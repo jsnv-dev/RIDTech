@@ -4,6 +4,7 @@
 These codes were used in our undergraduate study, see the abstract below:
 
 ```
+<p align="center">
 Rice, the most stable food crop, is considered a prime product of the Philippines, serving
 as source of income to millions of Filipino farmers. Because of its economic importance as
 commodity and industry, rice plant's health critical. Disease identification and management are
@@ -27,4 +28,5 @@ and accurate performance of sound signal processing. The system will base on 450
 sound data. Based on the result, the program will generate a report in PDF format. Overall, this
 study allows the prevention and early management of harmful microorganisms in rice plants.
 During the field test, the project was found to be fully functional and 100 percent accurate.
+</p>
 ```
