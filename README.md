@@ -1,11 +1,8 @@
 # RIDTech
+## RIDTech: Rice Plant Disease Identification and Detection Technology through Classification of  Microorganisms using Fuzzy Neural Network
 <p align="center">
-</b>RIDTech: Rice Plant Disease Identification and Detection Technology through Classification of  Microorganisms using Fuzzy Neural Network<br>
-
-These codes were used in our undergraduate study, see the abstract below:
-<p align="center">
-
-<p align="center">
+These codes were used in our undergraduate study, see the abstract below:  
+  
 Rice, the most stable food crop, is considered a prime product of the Philippines, serving
 as source of income to millions of Filipino farmers. Because of its economic importance as
 commodity and industry, rice plant's health critical. Disease identification and management are
