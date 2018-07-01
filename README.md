@@ -1,8 +1,7 @@
 # RIDTech
-## RIDTech: Rice Plant Disease Identification and Detection Technology through Classification of  Microorganisms using Fuzzy Neural Network
-
-
 <p align="center">
+</b>RIDTech: Rice Plant Disease Identification and Detection Technology through Classification of  Microorganisms using Fuzzy Neural Network<br>
+
 These codes were used in our undergraduate study, see the abstract below:
 <p align="center">
 
